@@ -1,2 +1,2 @@
 # neoland-horario
-Horario: lunes a viernes 
+Horario: Martes a Viernes. Lunes cerrado.
